@@ -47,21 +47,5 @@
 </head>
 <body>
 
-    <h1>Merhaba Tatlım! ❤️</h1>
-    <p>Butona basınca sana özel bir sürpriz var! 😊</p>
 
-    <button onclick="showSurprise()">Sürprizi Gör!</button>
 
-    <div id="content">
-        <p id="message">Seni çok seviyorum! 💖</p>
-        <img id="surpriseImage" src="(https://github.com/cerencaniikooo/xx/blob/main/C2ABE29B-B84B-4F20-B2E6-F233085E4413_Original.JPG?raw=true)"alt="Sürpriz Fotoğrafı">
-    </div>
-
-    <script>
-        function showSurprise() {
-            document.getElementById("content").style.display = "block";
-        }
-    </script>
-
-</body>
-</html>
